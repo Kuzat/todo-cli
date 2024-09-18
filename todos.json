@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Add Todo struct",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "title": "read todos from json file",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Save json file todos",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "cli commands should all be working as expected",
+      "completed": false
+    }
+  ]
+}
