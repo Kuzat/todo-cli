@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/Kuzat/go-cli/todo"
+	"github.com/Kuzat/todo-cli/todo"
 	"github.com/spf13/cobra"
 	"log"
 	"strconv"
