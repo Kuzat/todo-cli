@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Kuzat/go-cli/cmd"
+	"github.com/Kuzat/todo-cli/cmd"
 )
 
 func main() {

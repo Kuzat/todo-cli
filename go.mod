@@ -1,4 +1,4 @@
-module github.com/Kuzat/go-cli
+module github.com/Kuzat/todo-cli
 
 go 1.22.5
 
